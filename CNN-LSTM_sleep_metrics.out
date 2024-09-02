@@ -1,0 +1,13 @@
+[(0, 562732), (1, 626986), (2, 90950), (3, 158768)]
+[(0, 190298), (1, 209392), (2, 29178), (3, 52482)]
+[(0, 46121), (1, 52817), (2, 7006), (3, 13401)]
+Finished
+20240901_165230
+CNN-LSTM
+TST - MSE: 30088.912408759123 Pearson correlation coefficient: 0.4311465160140813 R-squared: -0.12930985183567878
+SE - MSE: 216.09388400430282 Pearson correlation coefficient: 0.43114651601408127 R-squared: -0.12930985183567856
+Light Fraction - MSE: 991.7013848414517 Pearson correlation coefficient: 0.09069091523246287 R-squared: -5.1836766140830255
+Deep Fraction - MSE: 144.1997617573832 Pearson correlation coefficient: 0.10159388196873027 R-squared: -0.911537540494811
+REM Fraction - MSE: 1106.1123270272697 Pearson correlation coefficient: -0.07595302643179644 R-squared: -19.669817224195466
+Transitions - MSE: 2884.586374695864 Pearson correlation coefficient: 0.18955911033061087 R-squared: -4.151287465557368
+Finished processing and writing results.

@@ -1,0 +1,2 @@
+Best parameters: {'lr': 0.001, 'module__dropout_rate': 0.5, 'module__hidden_size': 32, 'module__input_channels': 8, 'module__kernel_size': 5, 'module__num_layers': 2}
+Best cross-validation accuracy score: 0.34952821529642303

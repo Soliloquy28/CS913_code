@@ -1,0 +1,11 @@
+Timestamp: 20240901_165230
+
+Results for CNN-LSTM:
+==================================================
+TST - MSE: 30088.9124, Pearson correlation coefficient: 0.4311, R-squared: -0.1293
+SE - MSE: 216.0939, Pearson correlation coefficient: 0.4311, R-squared: -0.1293
+Light Fraction - MSE: 991.7014, Pearson correlation coefficient: 0.0907, R-squared: -5.1837
+Deep Fraction - MSE: 144.1998, Pearson correlation coefficient: 0.1016, R-squared: -0.9115
+REM Fraction - MSE: 1106.1123, Pearson correlation coefficient: -0.0760, R-squared: -19.6698
+Transitions - MSE: 2884.5864, Pearson correlation coefficient: 0.1896, R-squared: -4.1513
+

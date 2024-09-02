@@ -1,0 +1,11 @@
+Timestamp: 20240901_213124
+
+Results for Multi-Input:
+==================================================
+TST - MSE: 18538.3824, Pearson correlation coefficient: 0.6346, R-squared: 0.2325
+SE - MSE: 133.1398, Pearson correlation coefficient: 0.6346, R-squared: 0.2325
+Light Fraction - MSE: 877.0465, Pearson correlation coefficient: 0.4029, R-squared: -4.6986
+Deep Fraction - MSE: 631.8242, Pearson correlation coefficient: 0.1470, R-squared: -8.7355
+REM Fraction - MSE: 188.3503, Pearson correlation coefficient: 0.1715, R-squared: -2.2051
+Transitions - MSE: 1199.0196, Pearson correlation coefficient: 0.2666, R-squared: -1.3089
+

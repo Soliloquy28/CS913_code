@@ -1,0 +1,26 @@
+[(0, 562732), (1, 626986), (2, 90950), (3, 158768)]
+[(0, 190298), (1, 209392), (2, 29178), (3, 52482)]
+[(0, 193205), (1, 205681), (2, 28513), (3, 52644)]
+Finished
+Bi-LSTM Testing
+Learning rate: 0.1.
+Total samples: 480043
+Correct predictions: 269157
+Counter({1: 185203, 0: 172583, 3: 79331, 2: 42926})
+Test Loss: 1.3487, Test Accuracy: 0.5607
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.74      0.66      0.70    193205
+           1       0.59      0.53      0.56    205681
+           2       0.21      0.31      0.25     28513
+           3       0.29      0.44      0.35     52644
+
+    accuracy                           0.56    480043
+   macro avg       0.46      0.49      0.46    480043
+weighted avg       0.60      0.56      0.57    480043
+
+Cohen's Kappa: 0.3409410702658896.
+Weighted F1-score: 0.5742123677452563.
+Accuracy: 0.5606935212053921
+Finished writing results into txt file.

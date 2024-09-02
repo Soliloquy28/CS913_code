@@ -1,0 +1,469 @@
+[(0, 562732), (1, 626986), (2, 90950), (3, 158768)]
+[(0, 190298), (1, 209392), (2, 29178), (3, 52482)]
+[(0, 193205), (1, 205681), (2, 28513), (3, 52644)]
+Finished
+LSTM Training
+Learning rate: 0.1.
+Epoch 1 / 150
+Training Loss: 3.7481511400303074e-06.
+Total samples: 481350
+Correct predictions: 160081
+Counter({0: 138527, 3: 135742, 1: 106028, 2: 101053})
+Validation Loss: 1.3533548317104656.
+Weighted F1-score: 0.37068164601164894
+--------------------------------------Saved best model-------------------------------------------
+Epoch 2 / 150
+Training Loss: 3.7498376853157327e-06.
+Total samples: 481350
+Correct predictions: 167504
+Counter({0: 144718, 3: 132082, 2: 103294, 1: 101256})
+Validation Loss: 1.3533447300187893.
+Weighted F1-score: 0.3857156466460666
+--------------------------------------Saved best model-------------------------------------------
+Epoch 3 / 150
+Training Loss: 3.7495333166288415e-06.
+Total samples: 481350
+Correct predictions: 170969
+Counter({0: 147510, 3: 128310, 2: 109541, 1: 95989})
+Validation Loss: 1.3533229621897807.
+Weighted F1-score: 0.3926232744465767
+--------------------------------------Saved best model-------------------------------------------
+Epoch 4 / 150
+Training Loss: 3.748660265981138e-06.
+Total samples: 481350
+Correct predictions: 168878
+Counter({0: 135736, 2: 127183, 3: 125057, 1: 93374})
+Validation Loss: 1.3532508345438805.
+Weighted F1-score: 0.3931368664777462
+--------------------------------------Saved best model-------------------------------------------
+Epoch 5 / 150
+Training Loss: 3.749326497563633e-06.
+Total samples: 481350
+Correct predictions: 153734
+Counter({2: 165851, 3: 117543, 1: 103489, 0: 94467})
+Validation Loss: 1.3530141836019076.
+Weighted F1-score: 0.3724067938825383
+--------------------------------------Saved best model-------------------------------------------
+Epoch 6 / 150
+Training Loss: 3.7456099961872447e-06.
+Total samples: 481350
+Correct predictions: 145413
+Counter({2: 189084, 1: 116448, 3: 105020, 0: 70798})
+Validation Loss: 1.3528604423817758.
+Weighted F1-score: 0.3556213131428691
+--------------------------------------Saved best model-------------------------------------------
+Epoch 7 / 150
+Training Loss: 3.7456076041381954e-06.
+Total samples: 481350
+Correct predictions: 147984
+Counter({2: 191759, 1: 121079, 3: 99305, 0: 69207})
+Validation Loss: 1.352808680583894.
+Weighted F1-score: 0.36064114504146644
+--------------------------------------Saved best model-------------------------------------------
+Epoch 8 / 150
+Training Loss: 3.74762912531577e-06.
+Total samples: 481350
+Correct predictions: 156275
+Counter({2: 183995, 1: 124615, 3: 97796, 0: 74944})
+Validation Loss: 1.3527858690882666.
+Weighted F1-score: 0.37810167787399834
+--------------------------------------Saved best model-------------------------------------------
+Epoch 9 / 150
+Training Loss: 3.748321670488827e-06.
+Total samples: 481350
+Correct predictions: 167223
+Counter({2: 170901, 1: 132367, 3: 95444, 0: 82638})
+Validation Loss: 1.3527724890182902.
+Weighted F1-score: 0.4002798122155103
+--------------------------------------Saved best model-------------------------------------------
+Epoch 10 / 150
+Training Loss: 3.7481926228082775e-06.
+Total samples: 481350
+Correct predictions: 183332
+Counter({1: 152208, 2: 151616, 0: 91787, 3: 85739})
+Validation Loss: 1.3527636691346847.
+Weighted F1-score: 0.4304042663664011
+--------------------------------------Saved best model-------------------------------------------
+Epoch 11 / 150
+Training Loss: 3.7468424574596814e-06.
+Total samples: 481350
+Correct predictions: 202771
+Counter({1: 183489, 2: 125620, 0: 100341, 3: 71900})
+Validation Loss: 1.3527601515945893.
+Weighted F1-score: 0.46233785536772887
+--------------------------------------Saved best model-------------------------------------------
+Epoch 12 / 150
+Training Loss: 3.748314370560355e-06.
+Total samples: 481350
+Correct predictions: 215532
+Counter({1: 209084, 0: 102969, 2: 92786, 3: 76511})
+Validation Loss: 1.3527620291729712.
+Weighted F1-score: 0.4800770693012594
+Epoch 13 / 150
+Training Loss: 3.747949808859653e-06.
+Total samples: 481350
+Correct predictions: 173896
+Counter({3: 229330, 1: 101068, 0: 86817, 2: 64135})
+Validation Loss: 1.3527473940160324.
+Weighted F1-score: 0.40911185473938483
+--------------------------------------Saved best model-------------------------------------------
+Epoch 14 / 150
+Training Loss: 3.7468026389241023e-06.
+Total samples: 481350
+Correct predictions: 169116
+Counter({3: 251412, 1: 111246, 0: 71502, 2: 47190})
+Validation Loss: 1.352724080575123.
+Weighted F1-score: 0.4004258609355511
+--------------------------------------Saved best model-------------------------------------------
+Epoch 15 / 150
+Training Loss: 3.7457907320420493e-06.
+Total samples: 481350
+Correct predictions: 174946
+Counter({3: 247436, 1: 130739, 0: 66216, 2: 36959})
+Validation Loss: 1.352706922884979.
+Weighted F1-score: 0.4117180248162831
+--------------------------------------Saved best model-------------------------------------------
+Epoch 16 / 150
+Training Loss: 3.7445690071121586e-06.
+Total samples: 481350
+Correct predictions: 177693
+Counter({3: 244157, 1: 143439, 0: 60666, 2: 33088})
+Validation Loss: 1.352687054376829.
+Weighted F1-score: 0.416141907297312
+--------------------------------------Saved best model-------------------------------------------
+Epoch 17 / 150
+Training Loss: 3.744762276769857e-06.
+Total samples: 481350
+Correct predictions: 178422
+Counter({3: 248304, 1: 142767, 0: 62725, 2: 27554})
+Validation Loss: 1.3526739063425897.
+Weighted F1-score: 0.418363045865641
+--------------------------------------Saved best model-------------------------------------------
+Epoch 18 / 150
+Training Loss: 3.744847392995562e-06.
+Total samples: 481350
+Correct predictions: 183902
+Counter({3: 242375, 1: 150932, 0: 63693, 2: 24350})
+Validation Loss: 1.3526562027452247.
+Weighted F1-score: 0.4289159179889037
+--------------------------------------Saved best model-------------------------------------------
+Epoch 19 / 150
+Training Loss: 3.743686826287396e-06.
+Total samples: 481350
+Correct predictions: 188339
+Counter({3: 235411, 1: 155327, 0: 68692, 2: 21920})
+Validation Loss: 1.3526424419791996.
+Weighted F1-score: 0.4373779763368312
+--------------------------------------Saved best model-------------------------------------------
+Epoch 20 / 150
+Training Loss: 3.7440496495146586e-06.
+Total samples: 481350
+Correct predictions: 196973
+Counter({3: 215659, 1: 171454, 0: 71652, 2: 22585})
+Validation Loss: 1.3526086602218923.
+Weighted F1-score: 0.4535798146226817
+--------------------------------------Saved best model-------------------------------------------
+Epoch 21 / 150
+Training Loss: 3.744663345987779e-06.
+Total samples: 481350
+Correct predictions: 212552
+Counter({1: 201134, 3: 183477, 0: 77695, 2: 19044})
+Validation Loss: 1.3525965415657502.
+Weighted F1-score: 0.476035683113366
+--------------------------------------Saved best model-------------------------------------------
+Epoch 22 / 150
+Training Loss: 3.743330212637844e-06.
+Total samples: 481350
+Correct predictions: 232591
+Counter({1: 240207, 3: 140106, 0: 82257, 2: 18780})
+Validation Loss: 1.3525618712956802.
+Weighted F1-score: 0.5045199148201103
+--------------------------------------Saved best model-------------------------------------------
+Epoch 23 / 150
+Training Loss: 3.743382310635221e-06.
+Total samples: 481350
+Correct predictions: 226173
+Counter({1: 256793, 3: 137841, 0: 65123, 2: 21593})
+Validation Loss: 1.3525996442674242.
+Weighted F1-score: 0.4847673672187399
+Epoch 24 / 150
+Training Loss: 3.7429613263150667e-06.
+Total samples: 481350
+Correct predictions: 254168
+Counter({1: 318585, 0: 73165, 3: 71363, 2: 18237})
+Validation Loss: 1.3525078778689408.
+Weighted F1-score: 0.5186586510248412
+--------------------------------------Saved best model-------------------------------------------
+Epoch 25 / 150
+Training Loss: 3.7426395541913304e-06.
+Total samples: 481350
+Correct predictions: 254353
+Counter({1: 328164, 3: 68013, 0: 67982, 2: 17191})
+Validation Loss: 1.352472188528718.
+Weighted F1-score: 0.5140816765990112
+--------------------------------------Saved best model-------------------------------------------
+Epoch 26 / 150
+Training Loss: 3.7432220856423605e-06.
+Total samples: 481350
+Correct predictions: 262007
+Counter({1: 335746, 0: 74178, 3: 56776, 2: 14650})
+Validation Loss: 1.3524507865170718.
+Weighted F1-score: 0.527562579601233
+--------------------------------------Saved best model-------------------------------------------
+Epoch 27 / 150
+Training Loss: 3.742681158723336e-06.
+Total samples: 481350
+Correct predictions: 273114
+Counter({1: 330871, 0: 90167, 3: 45902, 2: 14410})
+Validation Loss: 1.3524429624511827.
+Weighted F1-score: 0.5517934005634308
+--------------------------------------Saved best model-------------------------------------------
+Epoch 28 / 150
+Training Loss: 3.7423013771273145e-06.
+Total samples: 481350
+Correct predictions: 263145
+Counter({1: 347424, 0: 72043, 3: 47218, 2: 14665})
+Validation Loss: 1.3524581411271943.
+Weighted F1-score: 0.5245611842915289
+Epoch 29 / 150
+Training Loss: 3.741253133443427e-06.
+Total samples: 481350
+Correct predictions: 276903
+Counter({1: 338079, 0: 92094, 3: 38137, 2: 13040})
+Validation Loss: 1.352416312972172.
+Weighted F1-score: 0.555665114981032
+--------------------------------------Saved best model-------------------------------------------
+Epoch 30 / 150
+Training Loss: 3.7417949967890344e-06.
+Total samples: 481350
+Correct predictions: 276777
+Counter({1: 339503, 0: 96622, 3: 30964, 2: 14261})
+Validation Loss: 1.3524221603835969.
+Weighted F1-score: 0.552395988864307
+Epoch 31 / 150
+Training Loss: 3.74201795337116e-06.
+Total samples: 481350
+Correct predictions: 266898
+Counter({1: 358160, 0: 73444, 3: 33570, 2: 16176})
+Validation Loss: 1.3524166051895927.
+Weighted F1-score: 0.5264979398744192
+Epoch 32 / 150
+Training Loss: 3.7399057136921473e-06.
+Total samples: 481350
+Correct predictions: 276716
+Counter({1: 349260, 0: 88847, 3: 29601, 2: 13642})
+Validation Loss: 1.3523972161150282.
+Weighted F1-score: 0.5492868106331701
+--------------------------------------Saved best model-------------------------------------------
+Epoch 33 / 150
+Training Loss: 3.7392451501616543e-06.
+Total samples: 481350
+Correct predictions: 273897
+Counter({1: 350341, 0: 83660, 3: 31492, 2: 15857})
+Validation Loss: 1.3524102816810064.
+Weighted F1-score: 0.5439838712282133
+Epoch 34 / 150
+Training Loss: 3.739737249337906e-06.
+Total samples: 481350
+Correct predictions: 280974
+Counter({1: 348688, 0: 94336, 3: 25835, 2: 12491})
+Validation Loss: 1.3523690941119053.
+Weighted F1-score: 0.5567390615629649
+--------------------------------------Saved best model-------------------------------------------
+Epoch 35 / 150
+Training Loss: 3.7395321164222196e-06.
+Total samples: 481350
+Correct predictions: 281845
+Counter({1: 348860, 0: 95116, 3: 24752, 2: 12622})
+Validation Loss: 1.3523887479861256.
+Weighted F1-score: 0.5580224951583538
+Epoch 36 / 150
+Training Loss: 3.73968934279643e-06.
+Total samples: 481350
+Correct predictions: 279169
+Counter({1: 349651, 0: 90977, 3: 26886, 2: 13836})
+Validation Loss: 1.3523878844058983.
+Weighted F1-score: 0.5533867329164368
+Epoch 37 / 150
+Training Loss: 3.738620936716268e-06.
+Total samples: 481350
+Correct predictions: 282117
+Counter({1: 348262, 0: 93902, 3: 25742, 2: 13444})
+Validation Loss: 1.3523853628417717.
+Weighted F1-score: 0.5598751432017427
+Epoch 38 / 150
+Training Loss: 3.7397124038467057e-06.
+Total samples: 481350
+Correct predictions: 277637
+Counter({1: 350852, 0: 89034, 3: 26710, 2: 14754})
+Validation Loss: 1.3524113626884773.
+Weighted F1-score: 0.5501836065408298
+Epoch 39 / 150
+Training Loss: 3.7386227059816982e-06.
+Total samples: 481350
+Correct predictions: 279119
+Counter({1: 348925, 0: 91147, 3: 27682, 2: 13596})
+Validation Loss: 1.3523957502786226.
+Weighted F1-score: 0.5536059793485876
+Epoch 40 / 150
+Training Loss: 3.739625264240587e-06.
+Total samples: 481350
+Correct predictions: 281759
+Counter({1: 344603, 0: 94876, 3: 28954, 2: 12917})
+Validation Loss: 1.3523995080838214.
+Weighted F1-score: 0.5607910136800145
+Epoch 41 / 150
+Training Loss: 3.739659617021627e-06.
+Total samples: 481350
+Correct predictions: 281928
+Counter({1: 345930, 0: 95576, 3: 26478, 2: 13366})
+Validation Loss: 1.3524070943663693.
+Weighted F1-score: 0.5601060401282406
+Epoch 42 / 150
+Training Loss: 3.7395356444503785e-06.
+Total samples: 481350
+Correct predictions: 280467
+Counter({1: 347799, 0: 91247, 3: 28332, 2: 13972})
+Validation Loss: 1.3523708232246332.
+Weighted F1-score: 0.5579559052130711
+Epoch 43 / 150
+Training Loss: 3.739087090993841e-06.
+Total samples: 481350
+Correct predictions: 283233
+Counter({1: 327578, 0: 102772, 3: 37581, 2: 13419})
+Validation Loss: 1.3523544633221352.
+Weighted F1-score: 0.5707463930988034
+--------------------------------------Saved best model-------------------------------------------
+Epoch 44 / 150
+Training Loss: 3.7394969101673385e-06.
+Total samples: 481350
+Correct predictions: 279669
+Counter({1: 344108, 0: 90094, 3: 32240, 2: 14908})
+Validation Loss: 1.3523401233052073.
+Weighted F1-score: 0.5585721768149838
+--------------------------------------Saved best model-------------------------------------------
+Epoch 45 / 150
+Training Loss: 3.739649703678347e-06.
+Total samples: 481350
+Correct predictions: 285312
+Counter({1: 332364, 0: 100856, 3: 32130, 2: 16000})
+Validation Loss: 1.35232021937455.
+Weighted F1-score: 0.574206472663
+--------------------------------------Saved best model-------------------------------------------
+Epoch 46 / 150
+Training Loss: 3.7393684519594395e-06.
+Total samples: 481350
+Correct predictions: 285774
+Counter({1: 323763, 0: 107162, 3: 34597, 2: 15828})
+Validation Loss: 1.352327682047454.
+Weighted F1-score: 0.5773834142033352
+Epoch 47 / 150
+Training Loss: 3.7396427122533244e-06.
+Total samples: 481350
+Correct predictions: 284658
+Counter({1: 314616, 0: 109987, 3: 39249, 2: 17498})
+Validation Loss: 1.3523289037340216.
+Weighted F1-score: 0.5791958999973322
+Epoch 48 / 150
+Training Loss: 3.7384757604944098e-06.
+Total samples: 481350
+Correct predictions: 281619
+Counter({1: 305441, 0: 115428, 3: 41005, 2: 19476})
+Validation Loss: 1.3523140435653696.
+Weighted F1-score: 0.5754212485518885
+--------------------------------------Saved best model-------------------------------------------
+Epoch 49 / 150
+Training Loss: 3.7399226517202267e-06.
+Total samples: 481350
+Correct predictions: 279658
+Counter({1: 281832, 0: 122704, 3: 55810, 2: 21004})
+Validation Loss: 1.3523260448693957.
+Weighted F1-score: 0.5800540615894864
+Epoch 50 / 150
+Training Loss: 3.7382523976082428e-06.
+Total samples: 481350
+Correct predictions: 278915
+Counter({1: 296963, 0: 116240, 3: 46709, 2: 21438})
+Validation Loss: 1.3523236810704116.
+Weighted F1-score: 0.5737122533019725
+Epoch 51 / 150
+Training Loss: 3.7389554710559254e-06.
+Total samples: 481350
+Correct predictions: 265778
+Counter({1: 293543, 0: 101603, 3: 61336, 2: 24868})
+Validation Loss: 1.3523495978435847.
+Weighted F1-score: 0.55097004665747
+Epoch 52 / 150
+Training Loss: 3.7390740170155918e-06.
+Total samples: 481350
+Correct predictions: 274612
+Counter({1: 280994, 0: 118528, 3: 57433, 2: 24395})
+Validation Loss: 1.3523363119339638.
+Weighted F1-score: 0.5712933179003202
+Epoch 53 / 150
+Training Loss: 3.738763412787119e-06.
+Total samples: 481350
+Correct predictions: 269330
+Counter({1: 245638, 0: 132833, 3: 75643, 2: 27236})
+Validation Loss: 1.3523451932892938.
+Weighted F1-score: 0.5701763501899658
+Epoch 54 / 150
+Training Loss: 3.7390007471475468e-06.
+Total samples: 481350
+Correct predictions: 273323
+Counter({1: 255358, 0: 131753, 3: 66145, 2: 28094})
+Validation Loss: 1.352356868711503.
+Weighted F1-score: 0.5754064668343065
+Epoch 55 / 150
+Training Loss: 3.7363377244501054e-06.
+Total samples: 481350
+Correct predictions: 268571
+Counter({1: 265884, 0: 119293, 3: 64280, 2: 31893})
+Validation Loss: 1.3523582850124676.
+Weighted F1-score: 0.5653217517571381
+Epoch 56 / 150
+Training Loss: 3.738289226187691e-06.
+Total samples: 481350
+Correct predictions: 269644
+Counter({1: 249517, 0: 134813, 3: 67409, 2: 29611})
+Validation Loss: 1.3523322261658934.
+Weighted F1-score: 0.5686367335768149
+Epoch 57 / 150
+Training Loss: 3.737611118132294e-06.
+Total samples: 481350
+Correct predictions: 266906
+Counter({1: 237491, 0: 138971, 3: 71947, 2: 32941})
+Validation Loss: 1.3523299124100454.
+Weighted F1-score: 0.5660287909127498
+Epoch 58 / 150
+Training Loss: 3.738578442790297e-06.
+Total samples: 481350
+Correct predictions: 265977
+Counter({1: 234653, 0: 136695, 3: 76554, 2: 33448})
+Validation Loss: 1.3523209426637577.
+Weighted F1-score: 0.5661435681607602
+Early stopping triggered at epoch 57!
+Training completed.
+Loss trend graph saved as 'LSTM_loss_trend_lr0.1_20240820_200256.png'
+LSTM Testing
+Learning rate: 0.1.
+Total samples: 480043
+Correct predictions: 283584
+Counter({1: 301272, 0: 118320, 3: 41462, 2: 18989})
+Test Loss: 1.3488, Test Accuracy: 0.5907
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.87      0.53      0.66    193205
+           1       0.55      0.80      0.65    205681
+           2       0.25      0.16      0.20     28513
+           3       0.28      0.22      0.25     52644
+
+    accuracy                           0.59    480043
+   macro avg       0.49      0.43      0.44    480043
+weighted avg       0.63      0.59      0.58    480043
+
+Cohen's Kappa: 0.3399958836516337.
+Weighted F1-score: 0.5823600339474878.
+Accuracy: 0.5907470789075145
+Finished writing results into txt file.

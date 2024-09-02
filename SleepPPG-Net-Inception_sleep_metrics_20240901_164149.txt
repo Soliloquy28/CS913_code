@@ -1,0 +1,11 @@
+Timestamp: 20240901_164149
+
+Results for SleepPPG-Net-Inception:
+==================================================
+TST - MSE: 11227.1569, Pearson correlation coefficient: 0.7782, R-squared: 0.5378
+SE - MSE: 77.9664, Pearson correlation coefficient: 0.7782, R-squared: 0.5378
+Light Fraction - MSE: 134.6014, Pearson correlation coefficient: 0.4889, R-squared: 0.1166
+Deep Fraction - MSE: 81.7523, Pearson correlation coefficient: 0.3096, R-squared: -0.2659
+REM Fraction - MSE: 63.3169, Pearson correlation coefficient: 0.4023, R-squared: -0.0867
+Transitions - MSE: 928.7451, Pearson correlation coefficient: 0.4059, R-squared: -0.7766
+
